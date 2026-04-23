@@ -28,7 +28,7 @@ export function Hero() {
           <h1 className="mt-8 text-5xl font-black uppercase leading-[0.92] tracking-tight text-white sm:text-6xl xl:text-7xl">
             Potencia tu rendimiento al maximo
           </h1>
-          <p className="mt-6 max-w-2xl text-base leading-8 text-white/72 sm:text-lg">
+          <p className="mt-6 max-w-2xl text-base leading-8 text-white/100 sm:text-lg">
             Suplementacion premium, formulas seleccionadas y una experiencia de compra creada para atletas que no
             negocian resultados.
           </p>
